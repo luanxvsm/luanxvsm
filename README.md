@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/luanxvsm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanxvsm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanxvsm&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanxvsm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanxvsm&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">
@@ -22,6 +22,7 @@
  	<a href="https://www.twitch.tv/luanxvsm" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoluanvictor2808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://twitter.com/luanxvsm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  </div>
   
-  ![ Animação de cobra ](https://github.com/luanxvsm/luanxvsm/blob/output/github-contribution-grid-snake.svg)
+  ![Animação de cobra](https://github.com/luanxvsm/luanxvsm/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
