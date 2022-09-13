@@ -2,7 +2,6 @@
 
 - ⚓ Cursando ciência da computação 
 - 🌱 Estudando front-end
-- 😁 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/luanxvsm">
