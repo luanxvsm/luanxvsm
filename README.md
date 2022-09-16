@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Luan Victor 👋
 
 - ⚓ Cursando ciência da computação 
+- 🌴 João Pessoa/PB
+- 🥳 19y
 - 🌱 Estudando front-end
 
 <div align="center">
