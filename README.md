@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/luanxvsm">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luanxvsm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanxvsm&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luanxvsm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanxvsm&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">
