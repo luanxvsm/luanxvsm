@@ -21,8 +21,8 @@
   <div>
   <a href="https://instagram.com/luanvictorsm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/luanxvsm" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoluanvictor2808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank" width=65></a>
-  <a href="https://twitter.com/luanxvsm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" width=75></a>
+  <a href = "mailto:contatoluanvictor2808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank" width=65 border-radius=5></a>
+  <a href="https://twitter.com/luanxvsm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" width=75 border-radius=5></a>
   
   ![snake gif](https://github.com/luanxvsm/luanxvsm/blob/output/github-contribution-grid-snake.svg)
   
