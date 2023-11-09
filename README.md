@@ -2,7 +2,7 @@
 
 - ⚓ Cursando ciência da computação (4/8)
 - 🌴 João Pessoa/PB
-- 🥳 19y
+- 🥳 20y
 - 🌱 Estudando front-end
 
 <div align="center">
