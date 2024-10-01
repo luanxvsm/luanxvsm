@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Luan Victor 👋
 
-- ⚓ Cursando ciência da computação (5/8)
+- ⚓ Cursando ciência da computação (6/8)
 - 🌴 João Pessoa/PB
-- 🥳 20y
-- 🌱 Estudando front-end
+- 🥳 21y
 
 <div align="center">
   <a href="https://github.com/luanxvsm">
