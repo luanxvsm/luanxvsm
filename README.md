@@ -2,7 +2,7 @@
 
 - ⚓ Cursando ciência da computação (7/8)
 - 🌴 João Pessoa/PB
-- 🥳 21y
+- 🥳 22y
 
 <div align="center">
   <a href="https://github.com/luanxvsm">
