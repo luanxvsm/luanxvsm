@@ -1,28 +1,82 @@
-### Olá! Eu sou o Luan Victor 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=282A36"/>
 
-- ⚓ Cursando ciência da computação (8/8)
-- 🌴 João Pessoa/PB
-- 🥳 22y
+<br>
 
 <div align="center">
-  <a href="https://github.com/luanxvsm">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luanxvsm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanxvsm&layout=compact&langs_count=7&theme=gotham"/>
+  
+  <samp>
+      <br>
+      <b>Luan Victor</b>
+  </samp>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">
-  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png">
+
+<br>
+
+<div align="center" width="100%"><img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=FFE2E2&center=true&vCenter=true&width=435&lines=Im+from+Jo%C3%A3o+Pessoa%2C+Para%C3%ADba%2C+Brazil;Im+22+years+old;I+am+a+Computer+Science+student"/>
 </div>
+
+<br>
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=luanxvsm&show_icons=true&count_private=true&rank_icon=github&theme=dracula&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanxvsm&layout=compact&font=Iosevka&langs_count=16&theme=dracula"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanxvsm&layout=compact&font=Iosevka&theme=dracula"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   
-  ##
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
   
-  <div>
-  <a href="https://instagram.com/luanvictorsm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/luanxvsm" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoluanvictor2808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank" width=65 border-radius=5></a>
-  <a href="https://twitter.com/luanxvsm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" width=75 border-radius=5></a>
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luanvictor2808@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luanvictorsm/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/luanxvsm)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luan-victor-30aa26235/)
   
-  ![snake gif](https://github.com/luanxvsm/luanxvsm/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+</div>
+
+<br>
+
+</details>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=282A36&section=footer"/>
