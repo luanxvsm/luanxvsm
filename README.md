@@ -24,7 +24,7 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanxvsm&layout=compact&font=Iosevka&langs_count=16&theme=dracula"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanxvsm&layout=compact&font=Iosevka&theme=dracula"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanxvsm&theme=dracula"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
